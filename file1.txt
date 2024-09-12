@@ -8,3 +8,4 @@ commit test
 Новое изменение
 Add Line
 new branch line
+new line for gui
